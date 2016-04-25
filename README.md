@@ -1,2 +1,3 @@
 # hello-word
-a repository for test.
+Hi! everyone:
+     I'm Mr.Hu!
